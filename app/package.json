@@ -1,0 +1,16 @@
+{
+  "name": "devops-assignment-app",
+  "version": "1.0.0",
+  "description": "Sample Express API for DevOps AWS assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
